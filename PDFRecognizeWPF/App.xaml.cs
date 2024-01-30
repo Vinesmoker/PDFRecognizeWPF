@@ -18,4 +18,5 @@ namespace PDFRecognizeWPF
             mainWindow.Show();
         }
     }
+
 }
